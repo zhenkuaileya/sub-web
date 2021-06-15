@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://free666.herokuapp.com/sub?" }],
+        backendOptions: [{ value: "https://subweb-heroku.yunbai.workers.dev/sub?" }],
         remoteConfig: [
         {
             label: "ACL4SSR",
